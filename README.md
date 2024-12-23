@@ -1,2 +1,2 @@
-# Flutter-Apps
-These are some of the flutter projects I have worked on.
+# Flutter-Dice-App
+This app simulates the roll of dice.
